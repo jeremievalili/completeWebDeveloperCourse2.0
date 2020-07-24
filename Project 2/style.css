@@ -1,0 +1,47 @@
+.jumbotron {
+              
+    background-image: url(background.jpg);
+    text-align: center;
+    margin-top: 50px;
+}
+
+#email {
+    
+    width: 300px;
+    
+}
+
+#appSummary {
+    
+    text-align: center;
+    margin-top:50px;
+    margin-bottom: 50px;
+    
+}
+
+.card-img-top {
+    
+    width: 100%;
+    
+}
+
+#appStoreIcon {
+    
+    width: 200px;
+    
+}
+
+#footer {
+    
+    background-color: aqua;
+    padding-top: 150px;
+    margin-top: 50px;
+    text-align: center;
+    padding-bottom: 150px;
+}
+
+body {
+    
+    position: relative;
+    
+}
